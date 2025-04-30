@@ -6,7 +6,7 @@
 3. Daryl Sagranada
 
 #Description:
-This project simulates a low-cost crash detection and emergency alert system using simplified software-only methods. Instead of using real-world sensors, the simulation models accelerometer, gyroscope, and GPS behavior to mimic car movement and crash scenarios. It aims to demonstrate how low-cost, energy-efficient systems can be used in real-world situations—especially by students or individuals seeking affordable safety features.
+This project simulates a low-cost crash detection and emergency alert system using simplified software-only methods. Instead of using real-world sensors, the simulation models accelerometer, and GPS behavior to mimic car movement and crash scenarios. It aims to demonstrate how low-cost, energy-efficient systems can be used in real-world situations—especially by students or individuals seeking affordable safety features.
 
 #How It Works:
 
